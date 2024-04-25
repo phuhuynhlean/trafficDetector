@@ -1,0 +1,110 @@
+[
+  {
+    "location": "Vo Van Kiet",
+    "time": "2024-04-25 20:13:08.178255",
+    "traffic-data": {
+      "car": 0,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Pham Van Dong",
+    "time": "2024-04-25 20:13:08.178255",
+    "traffic-data": {
+      "car": 0,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Vo Thi Sau - Dinh Tien Hoang",
+    "time": "2024-04-25 20:59:25.596270",
+    "traffic-data": {
+      "car": 6,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 9
+    }
+  },
+  {
+    "location": "Highway 13 - Pham Van Dong",
+    "time": "2024-04-25 20:59:25.536148",
+    "traffic-data": {
+      "car": 5,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Highway A1",
+    "time": "2024-04-25 20:59:24.995753",
+    "traffic-data": {
+      "car": 1,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 2
+    }
+  },
+  {
+    "location": "Long Thanh - Dau Giay Expressway",
+    "time": "2024-04-25 20:59:24.875205",
+    "traffic-data": {
+      "car": 3,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 1
+    }
+  },
+  {
+    "location": "Highway 22",
+    "time": "2024-04-25 20:59:25.027403",
+    "traffic-data": {
+      "car": 0,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Vo Chi Cong",
+    "time": "2024-04-25 20:59:25.616231",
+    "traffic-data": {
+      "car": 4,
+      "bike": 0,
+      "truck": 2,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Highway 13 - Highway A1",
+    "time": "2024-04-25 20:59:24.619938",
+    "traffic-data": {
+      "car": 7,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  }
+]]

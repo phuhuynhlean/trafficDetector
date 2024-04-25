@@ -203,20 +203,6 @@ def run(
         # Print time (inference-only)
         LOGGER.info(f"{s}{'' if len(det) else '(no detections), '}{dt[1].dt * 1E3:.1f}ms")
 
-        #Append (print) to a text file
-        k=""
-        x = s.split()
-        count = 0
-        for part in x:
-            if count==2:
-                part = part[::-1]
-                part = part.split('\\',1)[0]
-                k = k + part[::-1] + " "
-            if count>3 :
-                k = k + part + " "
-            count+=1
-        data_saver = open("results.txt","a")
-        data_saver.write(k+'\n')
     # Print results
     t = tuple(x.t / seen * 1E3 for x in dt)  # speeds per image
     LOGGER.info(f'Speed: %.1fms pre-process, %.1fms inference, %.1fms NMS per image at shape {(1, 3, *imgsz)}' % t)
@@ -226,6 +212,8 @@ def run(
         print(time.process_time())
     if update:
         strip_optimizer(weights[0])  # update model (to fix SourceChangeWarning)
+
+    return s
 
 
 def parse_opt():
