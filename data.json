@@ -24,22 +24,22 @@
     }
   },
   {
-    "location": "Vo Thi Sau - Dinh Tien Hoang",
-    "time": "2024-04-25 20:59:25.596270",
+    "location": "Highway A1",
+    "time": "2024-04-27 11:56:08.905917",
     "traffic-data": {
-      "car": 6,
+      "car": 5,
       "bike": 0,
-      "truck": 1,
+      "truck": 4,
       "bus": 0,
       "person": 0,
-      "motorbike": 9
+      "motorbike": 7
     }
   },
   {
-    "location": "Highway 13 - Pham Van Dong",
-    "time": "2024-04-25 20:59:25.536148",
+    "location": "Highway 22",
+    "time": "2024-04-27 11:56:09.095661",
     "traffic-data": {
-      "car": 5,
+      "car": 7,
       "bike": 0,
       "truck": 0,
       "bus": 0,
@@ -48,32 +48,32 @@
     }
   },
   {
-    "location": "Highway A1",
-    "time": "2024-04-25 20:59:24.995753",
+    "location": "Highway 13 - Pham Van Dong",
+    "time": "2024-04-27 11:56:09.095661",
     "traffic-data": {
-      "car": 1,
+      "car": 16,
       "bike": 0,
-      "truck": 1,
+      "truck": 0,
       "bus": 0,
       "person": 0,
       "motorbike": 2
     }
   },
   {
-    "location": "Long Thanh - Dau Giay Expressway",
-    "time": "2024-04-25 20:59:24.875205",
+    "location": "Highway A1 - Kha Van Can",
+    "time": "2024-04-27 11:56:09.087925",
     "traffic-data": {
-      "car": 3,
+      "car": 6,
       "bike": 0,
-      "truck": 0,
-      "bus": 0,
+      "truck": 3,
+      "bus": 2,
       "person": 0,
-      "motorbike": 1
+      "motorbike": 0
     }
   },
   {
-    "location": "Highway 22",
-    "time": "2024-04-25 20:59:25.027403",
+    "location": "Long Thanh - Dau Giay Expressway",
+    "time": "2024-04-27 11:56:09.351929",
     "traffic-data": {
       "car": 0,
       "bike": 0,
@@ -85,11 +85,95 @@
   },
   {
     "location": "Vo Chi Cong",
-    "time": "2024-04-25 20:59:25.616231",
+    "time": "2024-04-27 11:56:08.990222",
+    "traffic-data": {
+      "car": 5,
+      "bike": 0,
+      "truck": 6,
+      "bus": 2,
+      "person": 0,
+      "motorbike": 2
+    }
+  },
+  {
+    "location": "Highway 22",
+    "time": "2024-04-27 11:56:44.106948",
+    "traffic-data": {
+      "car": 1,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Vo Thi Sau - Dinh Tien Hoang",
+    "time": "2024-04-27 11:56:44.173622",
+    "traffic-data": {
+      "car": 8,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 15
+    }
+  },
+  {
+    "location": "Highway A1 - Kha Van Can",
+    "time": "2024-04-27 11:56:44.186553",
     "traffic-data": {
       "car": 4,
       "bike": 0,
-      "truck": 2,
+      "truck": 3,
+      "bus": 2,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Vo Chi Cong",
+    "time": "2024-04-27 11:56:44.378708",
+    "traffic-data": {
+      "car": 3,
+      "bike": 0,
+      "truck": 3,
+      "bus": 3,
+      "person": 0,
+      "motorbike": 1
+    }
+  },
+  {
+    "location": "Highway A1",
+    "time": "2024-04-27 11:56:44.071575",
+    "traffic-data": {
+      "car": 1,
+      "bike": 0,
+      "truck": 1,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 15
+    }
+  },
+  {
+    "location": "Highway 13 - Pham Van Dong",
+    "time": "2024-04-27 11:56:44.138063",
+    "traffic-data": {
+      "car": 10,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 1
+    }
+  },
+  {
+    "location": "Long Thanh - Dau Giay Expressway",
+    "time": "2024-04-27 11:56:44.310424",
+    "traffic-data": {
+      "car": 1,
+      "bike": 0,
+      "truck": 0,
       "bus": 0,
       "person": 0,
       "motorbike": 0
@@ -97,14 +181,458 @@
   },
   {
     "location": "Highway 13 - Highway A1",
-    "time": "2024-04-25 20:59:24.619938",
+    "time": "2024-04-27 11:56:44.133763",
     "traffic-data": {
-      "car": 7,
+      "car": 12,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 1
+    }
+  },
+  {
+    "location": "Highway 22",
+    "time": "2024-04-27 11:57:18.879087",
+    "traffic-data": {
+      "car": 3,
+      "bike": 0,
+      "truck": 0,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Highway A1 - Kha Van Can",
+    "time": "2024-04-27 11:57:19.295118",
+    "traffic-data": {
+      "car": 5,
+      "bike": 0,
+      "truck": 2,
+      "bus": 2,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Vo Thi Sau - Dinh Tien Hoang",
+    "time": "2024-04-27 11:57:19.205287",
+    "traffic-data": {
+      "car": 2,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 17
+    }
+  },
+  {
+    "location": "Highway 13 - Pham Van Dong",
+    "time": "2024-04-27 11:57:19.663495",
+    "traffic-data": {
+      "car": 8,
+      "bike": 0,
+      "truck": 1,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 1
+    }
+  },
+  {
+    "location": "Vo Chi Cong",
+    "time": "2024-04-27 11:57:19.681019",
+    "traffic-data": {
+      "car": 2,
+      "bike": 0,
+      "truck": 1,
+      "bus": 4,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Highway A1",
+    "time": "2024-04-27 11:57:19.681019",
+    "traffic-data": {
+      "car": 8,
+      "bike": 0,
+      "truck": 3,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 8
+    }
+  },
+  {
+    "location": "Highway 13 - Highway A1",
+    "time": "2024-04-27 11:57:19.728935",
+    "traffic-data": {
+      "car": 11,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 1
+    }
+  },
+  {
+    "location": "Long Thanh - Dau Giay Expressway",
+    "time": "2024-04-27 11:57:19.883656",
+    "traffic-data": {
+      "car": 0,
       "bike": 0,
       "truck": 0,
       "bus": 0,
       "person": 0,
       "motorbike": 0
     }
+  },
+  {
+    "location": "Highway 13 - Pham Van Dong",
+    "time": "2024-04-27 12:06:24.035800",
+    "traffic-data": {
+      "car": 7,
+      "bike": 0,
+      "truck": 0,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 1
+    }
+  },
+  {
+    "location": "Vo Chi Cong",
+    "time": "2024-04-27 12:06:24.108741",
+    "traffic-data": {
+      "car": 1,
+      "bike": 0,
+      "truck": 3,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 2
+    }
+  },
+  {
+    "location": "Cong Hoa - Tan Ki Tan Quy",
+    "time": "2024-04-27 12:06:23.878109",
+    "traffic-data": {
+      "car": 8,
+      "bike": 0,
+      "truck": 5,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 7
+    }
+  },
+  {
+    "location": "Truong Chinh - Hoang Hoa Tham",
+    "time": "2024-04-27 12:06:24.231867",
+    "traffic-data": {
+      "car": 6,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 14
+    }
+  },
+  {
+    "location": "Truong Chinh - Au Co",
+    "time": "2024-04-27 12:06:24.272001",
+    "traffic-data": {
+      "car": 10,
+      "bike": 0,
+      "truck": 1,
+      "bus": 3,
+      "person": 0,
+      "motorbike": 10
+    }
+  },
+  {
+    "location": "Highway A1 - Kha Van Can",
+    "time": "2024-04-27 12:06:24.340265",
+    "traffic-data": {
+      "car": 4,
+      "bike": 0,
+      "truck": 1,
+      "bus": 4,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Highway 22",
+    "time": "2024-04-27 12:06:24.111223",
+    "traffic-data": {
+      "car": 4,
+      "bike": 0,
+      "truck": 0,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 3
+    }
+  },
+  {
+    "location": "Truong Chinh - Tan Ki Tan Quy",
+    "time": "2024-04-27 12:06:24.120885",
+    "traffic-data": {
+      "car": 5,
+      "bike": 0,
+      "truck": 3,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 11
+    }
+  },
+  {
+    "location": "Highway A1",
+    "time": "2024-04-27 12:06:24.386848",
+    "traffic-data": {
+      "car": 1,
+      "bike": 0,
+      "truck": 2,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 11
+    }
+  },
+  {
+    "location": "Cong Hoa - Thang Long",
+    "time": "2024-04-27 12:06:24.403042",
+    "traffic-data": {
+      "car": 9,
+      "bike": 0,
+      "truck": 1,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 8
+    }
+  },
+  {
+    "location": "Vo Thi Sau - Dinh Tien Hoang",
+    "time": "2024-04-27 12:06:24.583804",
+    "traffic-data": {
+      "car": 4,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 12
+    }
+  },
+  {
+    "location": "Cong Hoa - Hoang Hoa Tham",
+    "time": "2024-04-27 12:06:24.845610",
+    "traffic-data": {
+      "car": 2,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 6
+    }
+  },
+  {
+    "location": "Cong Hoa - C18",
+    "time": "2024-04-27 12:06:25.000066",
+    "traffic-data": {
+      "car": 6,
+      "bike": 0,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 10
+    }
+  },
+  {
+    "location": "Hoang Van Thu - Tran Quoc Hoan",
+    "time": "2024-04-27 12:06:24.505912",
+    "traffic-data": {
+      "car": 7,
+      "bike": 0,
+      "truck": 2,
+      "bus": 2,
+      "person": 0,
+      "motorbike": 2
+    }
+  },
+  {
+    "location": "Cong Hoa - Binh Gia",
+    "time": "2024-04-27 12:06:24.991646",
+    "traffic-data": {
+      "car": 6,
+      "bike": 0,
+      "truck": 0,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 4
+    }
+  },
+  {
+    "location": "Truong Chinh - Xuan Hong",
+    "time": "2024-04-27 12:06:25.093317",
+    "traffic-data": {
+      "car": 7,
+      "bike": 0,
+      "truck": 3,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 13
+    }
+  },
+  {
+    "location": "Truong Chinh - Dong Den",
+    "time": "2024-04-27 12:06:25.215408",
+    "traffic-data": {
+      "car": 2,
+      "bike": 0,
+      "truck": 0,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 8
+    }
+  },
+  {
+    "location": "Cong Hoa - Ut Tich 2",
+    "time": "2024-04-27 12:06:24.880857",
+    "traffic-data": {
+      "car": 8,
+      "bike": 0,
+      "truck": 0,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 3
+    }
+  },
+  {
+    "location": "Bay Hien Intersection",
+    "time": "2024-04-27 12:06:24.505912",
+    "traffic-data": {
+      "car": 9,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 15
+    }
+  },
+  {
+    "location": "Vo Chi Cong",
+    "time": "2024-04-27 12:06:57.102702",
+    "traffic-data": {
+      "car": 0,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 2
+    }
+  },
+  {
+    "location": "Highway 13 - Pham Van Dong",
+    "time": "2024-04-27 12:06:56.945302",
+    "traffic-data": {
+      "car": 5,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 2
+    }
+  },
+  {
+    "location": "Cong Hoa - Tan Ki Tan Quy",
+    "time": "2024-04-27 12:06:57.326885",
+    "traffic-data": {
+      "car": 11,
+      "bike": 0,
+      "truck": 3,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 7
+    }
+  },
+  {
+    "location": "Truong Chinh - Hoang Hoa Tham",
+    "time": "2024-04-27 12:06:58.770868",
+    "traffic-data": {
+      "car": 9,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 12
+    }
+  },
+  {
+    "location": "Highway A1 - Kha Van Can",
+    "time": "2024-04-27 12:06:59.014694",
+    "traffic-data": {
+      "car": 3,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Highway 22",
+    "time": "2024-04-27 12:06:59.035208",
+    "traffic-data": {
+      "car": 8,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 0
+    }
+  },
+  {
+    "location": "Truong Chinh - Tan Ki Tan Quy",
+    "time": "2024-04-27 12:06:59.403596",
+    "traffic-data": {
+      "car": 12,
+      "bike": 0,
+      "truck": 1,
+      "bus": 1,
+      "person": 0,
+      "motorbike": 7
+    }
+  },
+  {
+    "location": "Cong Hoa - Thang Long",
+    "time": "2024-04-27 12:07:01.466705",
+    "traffic-data": {
+      "car": 9,
+      "bike": 0,
+      "truck": 1,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 6
+    }
+  },
+  {
+    "location": "Highway A1",
+    "time": "2024-04-27 12:07:01.565458",
+    "traffic-data": {
+      "car": 3,
+      "bike": 0,
+      "truck": 4,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 11
+    }
+  },
+  {
+    "location": "Vo Thi Sau - Dinh Tien Hoang",
+    "time": "2024-04-28 15:51:58.852875",
+    "traffic-data": {
+      "car": 5,
+      "bike": 1,
+      "truck": 0,
+      "bus": 0,
+      "person": 0,
+      "motorbike": 4
+    }
   }
-]]
+]

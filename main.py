@@ -83,7 +83,7 @@ def capture(path):
         except:
             print("Error when loading at", path[1])
 
-        time.sleep(30)
+        time.sleep(60)
 
 
 
